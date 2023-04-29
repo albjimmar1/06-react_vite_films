@@ -24,5 +24,6 @@ dist-ssr
 *.sw?
 
 info.txt
-.firebase/
+firebase.json
+.firebase
 .firebaserc
