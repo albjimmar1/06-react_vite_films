@@ -1,6 +1,6 @@
 # Movie search engine
 
-Web application for movie search.<br>
+Single-page application for movie search.<br>
 The title, the year of release and a poster of the movies are shown.<br>
 The search is done through the search engine, and can be ordered by year of release and title.<br>
 https://react-vite-films.web.app/
