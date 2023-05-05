@@ -64,6 +64,7 @@ main {
   width: 100%; 
   border-radius: 8px;
   margin-top: 16px;
+  aspect-ratio: 9/12;
 }
 
 .order {
