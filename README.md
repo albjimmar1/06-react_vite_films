@@ -7,8 +7,23 @@ The search is done through the search engine, and can be ordered by year of rele
 
 # Technologies
 
-React (useState, useEffect, useRef, useMemo, useCallback)<br>
+React (useCallback, useEffect, useMemo, useRef, useState)<br>
 Javascript<br>
 HTML<br>
 CSS<br>
 Firebase<br>
+
+# Installation
+
+```sh
+git clone https://github.com/albjimmar1/06-react_vite_films.git
+```
+```sh
+cd 06-react_vite_films
+```
+```sh
+npm install
+```
+```sh
+npm run dev
+```
