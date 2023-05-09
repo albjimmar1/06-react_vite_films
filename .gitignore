@@ -27,3 +27,4 @@ info.txt*
 firebase.json
 .firebase
 .firebaserc
+config.js
